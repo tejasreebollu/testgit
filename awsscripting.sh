@@ -4,3 +4,5 @@
 echo "This are the aws services tracking"
 aws s3 ls
 aws ec2 describe-instances
+echo "some changes"
+aws iam list-functions
